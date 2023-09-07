@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1687434975 source:c:\users\hamza\onedrive\desktop\projectc\projet.c
+	"PROJETh.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687432387 c:\users\hamza\onedrive\desktop\projectc\projeth.h
+
+1687434975 source:c:\users\hamza\onedrive\desktop\projectc\main.c
+	"PROJETh.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687181816 c:\users\hamza\onedrive\desktop\projectc\projet.c
+	"PROJETh.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
